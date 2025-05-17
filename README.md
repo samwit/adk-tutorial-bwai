@@ -1,6 +1,6 @@
 # Google Agent Development Kit (ADK) Tutorial
 
-This repository contains the code and resources for learning about Google's Agent Development Kit (ADK), a powerful framework for building AI agents and assistants. It was give as a live tutorial on May 17th. Please see the notebooks for the full code with runners and sessions etc.
+This repository contains the code and resources for learning about Google's Agent Development Kit (ADK), a powerful framework for building AI agents and assistants. It was given as a live tutorial on May 17th. Please see the notebooks for the full code with runners and sessions etc.
 
 ## Overview
 
@@ -10,6 +10,7 @@ The Google Agent Development Kit (ADK) is a framework that enables developers to
 
 - Python 3.12 or higher
 - `uv` package manager (for virtual environment management)
+- google-adk
 
 ## Setup
 
